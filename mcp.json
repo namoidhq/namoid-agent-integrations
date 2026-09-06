@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "namoid-customer-identity": {
+      "type": "streamable-http",
+      "url": "https://mcp.namoid.in"
+    }
+  }
+}

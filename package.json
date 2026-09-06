@@ -1,0 +1,32 @@
+{
+  "name": "@namoidhq/agent-integrations",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Canonical NamoID Customer Identity skills and agent adapters",
+  "keywords": [
+    "namoid",
+    "authentication",
+    "identity",
+    "mcp",
+    "ai-agents",
+    "skills"
+  ],
+  "author": "PolyMindsLabs Pvt. Ltd.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namoidhq/namoid-agent-integrations.git"
+  },
+  "homepage": "https://github.com/namoidhq/namoid-agent-integrations#readme",
+  "bugs": {
+    "url": "https://github.com/namoidhq/namoid-agent-integrations/issues"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.js && node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

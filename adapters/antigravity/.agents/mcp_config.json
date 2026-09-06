@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "namoid-customer-identity": {
+      "serverUrl": "https://mcp.namoid.in",
+      "transport": "http"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "namoid-customer-identity": {
+      "httpUrl": "https://mcp.namoid.in",
+      "authProviderType": "dynamic_discovery"
+    }
+  }
+}

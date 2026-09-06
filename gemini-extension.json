@@ -1,0 +1,12 @@
+{
+  "name": "namoid-customer-identity",
+  "version": "0.1.0",
+  "description": "Set up and verify NamoID Customer Identity.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "namoid-customer-identity": {
+      "httpUrl": "https://mcp.namoid.in",
+      "authProviderType": "dynamic_discovery"
+    }
+  }
+}

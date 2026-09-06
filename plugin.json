@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "namoid-customer-identity",
+  "version": "0.1.0",
+  "description": "Set up and verify NamoID Customer Identity.",
+  "author": {
+    "name": "NamoID"
+  },
+  "homepage": "https://namoid.in",
+  "repository": "https://github.com/namoidhq/namoid-agent-integrations",
+  "license": "MIT",
+  "keywords": ["authentication", "identity", "mcp", "namoid"]
+}
